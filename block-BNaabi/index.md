@@ -5,5 +5,6 @@ Q. Create an application named `sample` and create a `package.json` file inside 
 Q. Create another application named `sample2` and create a `package.json` using npm init.
 
 dbjvh
-bsdhbghjgrbdfkjfdklgrnkjgrkjrgrbkjmtgb
+bsdhbghjgrbdfkjf
+hgsjgdjfbjkmbdkjrbfdjbrfdjhdfdklgrnkjgrkjrgrbkjmtgb
 dbjdfsbvb
