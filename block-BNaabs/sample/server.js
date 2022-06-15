@@ -17,11 +17,9 @@ app.get("/new",(req,res)=>{
 })
 
 app.post("/new",(req,res)=>{
-    console.log(req.body.name);
-    res.send(req.body.name);
+    res.json(req.body);
 });
 app.get("/users",(req,res)=>{
-    console.log(req.query);
     res.send(req.query);
 });
 app.get("/users/:username",(req,res)=>{
